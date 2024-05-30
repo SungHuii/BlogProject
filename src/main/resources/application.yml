@@ -20,7 +20,7 @@ spring:
               - email
               - profile
 jwt:
-  issuer: ajufresh@gmail.com
+  issuer: gkemg2017@gmail.com
   secret_key: study-springboot
 
 # 369pg
